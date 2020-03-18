@@ -7,3 +7,4 @@
 - [旋转数组的最小数字](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.md#%E9%A2%98%E7%9B%AE)
 - [斐波那契数列](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md#%E9%A2%98%E7%9B%AE)
 - [跳台阶](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E8%B7%B3%E5%8F%B0%E9%98%B6.md#%E9%A2%98%E7%9B%AE)
+- [变态跳台阶](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md#%E9%A2%98%E7%9B%AE)
