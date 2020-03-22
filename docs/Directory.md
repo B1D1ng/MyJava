@@ -9,3 +9,4 @@
 - [跳台阶](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E8%B7%B3%E5%8F%B0%E9%98%B6.md#%E9%A2%98%E7%9B%AE)
 - [变态跳台阶](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md#%E9%A2%98%E7%9B%AE)
 - [矩形覆盖](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.md#%E9%A2%98%E7%9B%AE)
+- [数值的整数次方](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md#%E9%A2%98%E7%9B%AE)
