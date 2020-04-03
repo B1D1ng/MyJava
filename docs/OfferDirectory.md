@@ -20,3 +20,4 @@
 - [包含min函数的栈](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md#%E9%A2%98%E7%9B%AE)
 - [栈的压入、弹出序列](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md#%E9%A2%98%E7%9B%AE)
 - [从上往下打印二叉树](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md#题目)
+- [数组中出现次数超过一半的数字](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md#题目)
