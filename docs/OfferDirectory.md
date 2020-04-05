@@ -27,3 +27,4 @@
 - [二叉搜索树与双向链表](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/(**)%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md#%E9%A2%98%E7%9B%AE)
 - [最小的K个数](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.md#%E9%A2%98%E7%9B%AE)
 - [和为S的两个数字](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md#%E9%A2%98%E7%9B%AE) 
+- [连续子数组的最大和](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md#%E9%A2%98%E7%9B%AE)
