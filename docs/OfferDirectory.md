@@ -28,3 +28,4 @@
 - [最小的K个数](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.md#%E9%A2%98%E7%9B%AE)
 - [和为S的两个数字](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md#%E9%A2%98%E7%9B%AE) 
 - [连续子数组的最大和](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md#%E9%A2%98%E7%9B%AE)
+- [第一个只出现一次的字符](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md#%E9%A2%98%E7%9B%AE)
