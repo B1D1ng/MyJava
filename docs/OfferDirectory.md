@@ -34,3 +34,4 @@
 - [数组中的逆序对](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.md#%E9%A2%98%E7%9B%AE)
 - [两个链表的第一个公共结点](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%AC%E5%85%B1%E7%BB%93%E7%82%B9.md#%E9%A2%98%E7%9B%AE)
 - [数字在排序数组中出现的次数](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%95%B0%E5%AD%97%E5%9C%A8%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.md#%E9%A2%98%E7%9B%AE)
+- [二叉树的深度](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md#%E9%A2%98%E7%9B%AE)
