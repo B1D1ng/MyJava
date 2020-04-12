@@ -47,3 +47,4 @@
 - [删除链表中重复的结点](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9.md#%E9%A2%98%E7%9B%AE)
 - [对称的二叉树](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E9%A2%98%E7%9B%AE)
 - [按之字形顺序打印二叉树](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%8C%89%E4%B9%8B%E5%AD%97%E5%BD%A2%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E9%A2%98%E7%9B%AE)
+- [把二叉树打印成多行](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C.md#%E9%A2%98%E7%9B%AE)
