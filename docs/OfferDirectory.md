@@ -51,3 +51,4 @@
 - [序列化二叉树](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91.md#%E9%A2%98%E7%9B%AE)
 - [二叉搜索树的第k个结点](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.md#%E9%A2%98%E7%9B%AE)
 - [二叉树的下一个结点](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BB%93%E7%82%B9.md#%E9%A2%98%E7%9B%AE)
+- [滑动窗口的最大值](https://github.com/B1D1ng/MyJava/blob/master/docs/notes/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md#%E9%A2%98%E7%9B%AE)
