@@ -10,3 +10,6 @@
 - [15.三数之和](https://github.com/B1D1ng/MyJava/blob/master/docs/leetcode/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md#%E9%A2%98%E7%9B%AE)
 - [141.环形链表](https://github.com/B1D1ng/MyJava/blob/master/docs/leetcode/141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md#%E9%A2%98%E7%9B%AE)
 - [4.寻找两个正序数组的中位数](https://github.com/B1D1ng/MyJava/blob/master/docs/leetcode/4.%20%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md#%E9%A2%98%E7%9B%AE)
+- [20.有效的括号](https://github.com/B1D1ng/MyJava/blob/master/docs/leetcode/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md#%E9%A2%98%E7%9B%AE)
+- [22.括号生成](https://github.com/B1D1ng/MyJava/blob/master/docs/leetcode/DFS/22.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.md#%E9%A2%98%E7%9B%AE)
+- [23.合并k个升序链表](https://github.com/B1D1ng/MyJava/blob/master/docs/leetcode/%E5%88%86%E6%B2%BB/23.%E5%90%88%E5%B9%B6k%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.md#%E9%A2%98%E7%9B%AE)
